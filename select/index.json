@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "好不好",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-17T19:05:14.394718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "你,好不好?(TVBS連續劇【遺憾拼圖】片尾曲)",
+      "artist": "Eric Chou",
+      "has_synced": true,
+      "path": "select/01_你,好不好_(TVBS連續劇【遺憾拼圖】片尾曲)_Eric_Chou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "你，好不好？",
+      "artist": "周興哲",
+      "has_synced": true,
+      "path": "select/02_你,好不好_周興哲.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "你，好不好？ (TVBS連續劇【遺憾拼圖】片尾曲) - How Have You Been? (Ending Theme Song of TVBS Series \"Life List\")",
+      "artist": "Eric Chou",
+      "has_synced": true,
+      "path": "select/03_你,好不好__(TVBS連續劇【遺憾拼圖】片尾曲)_-_How_Have_You_Been__(Ending_Theme_Song_of_TVBS_Series_Eric_Chou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "你,好不好? (TVBS连续剧【遗憾拼图】片尾曲)",
+      "artist": "周兴哲",
+      "has_synced": true,
+      "path": "select/04_你,好不好__(TVBS连续剧【遗憾拼图】片尾曲)_周兴哲.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "你，好不好？ - TVBS連續劇【遺憾拼圖】片尾曲",
+      "artist": "Eric Chou",
+      "has_synced": true,
+      "path": "select/05_你,好不好__-_TVBS連續劇【遺憾拼圖】片尾曲_Eric_Chou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "你，好不好？ - TVBS連續劇【遺憾拼圖】片尾曲",
+      "artist": "周興哲",
+      "has_synced": true,
+      "path": "select/06_你,好不好__-_TVBS連續劇【遺憾拼圖】片尾曲_周興哲.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "好不好",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/07_好不好_五月天.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "好不好",
+      "artist": "蔡旻佑",
+      "has_synced": true,
+      "path": "select/08_好不好_蔡旻佑.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "你, 好不好?",
+      "artist": "周兴哲",
+      "has_synced": true,
+      "path": "select/09_你,_好不好_周兴哲.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "好不好",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/10_好不好_Mayday.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "好不好",
+      "artist": "Z.TAO",
+      "has_synced": true,
+      "path": "select/11_好不好_Z.TAO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "好不好",
+      "artist": "李唯楓",
+      "has_synced": true,
+      "path": "select/12_好不好_李唯楓.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "好不好",
+      "artist": "蔡旻佑",
+      "has_synced": true,
+      "path": "select/13_好不好_蔡旻佑.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "好不好 - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/14_好不好_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "你，好不好？ (TVBS連續劇【遺憾拼圖】片尾曲) - How Have You Been?",
+      "artist": "Eric Chou",
+      "has_synced": true,
+      "path": "select/15_你,好不好__(TVBS連續劇【遺憾拼圖】片尾曲)_-_How_Have_You_Been_Eric_Chou.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "好不好 / Talking",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/16_好不好___Talking_五月天.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "你,好不好？",
+      "artist": "周兴哲",
+      "has_synced": true,
+      "path": "select/17_你,好不好_周兴哲.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "好不好",
+      "artist": "李唯楓",
+      "has_synced": true,
+      "path": "select/18_好不好_李唯楓.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好不好",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/pl_01_好不好_Mayday.txt"
+    }
+  ]
+}
